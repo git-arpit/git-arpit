@@ -19,4 +19,5 @@ I have been recognized for my contributions with several awards: -
   - **Version Control:**   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
   - **IDE:**   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
 
-    #### 📫 Connect with Me Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/onarpit) or  [GitHub](https://github.com/git-arpit) or Mail to [Gmail](career.arpitsri@gmail.com)
+    #### 📫 Connect with Me:
+    Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/onarpit) or  [GitHub](https://github.com/git-arpit) or Mail to [Gmail](career.arpitsri@gmail.com)
