@@ -13,7 +13,7 @@ I have been recognized for my contributions with several awards: -
 - 🎯 **On the Spot Award - Team Award**
 - 🏅 **Special Achievement Award**
  
-- ## 🚀 Technologies & Tools
+## 🚀 Technologies & Tools
   - **Programming Languages:**   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
   - **Frameworks:**   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
   - **Version Control:**   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
