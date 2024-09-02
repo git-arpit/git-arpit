@@ -20,4 +20,4 @@ I have been recognized for my contributions with several awards: -
   - **IDE:**   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square)
 
     #### 📫 Connect with Me:
-    Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/onarpit) or  [GitHub](https://github.com/git-arpit) or Mail to [Gmail](career.arpitsri@gmail.com)
+    Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/onarpit) or  [GitHub](https://github.com/git-arpit) or Mail to [Gmail](mailto:career.arpitsri@gmail.com)
