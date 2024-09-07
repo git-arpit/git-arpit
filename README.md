@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Arpit Srivastava! [![GitHub](https://img.shields.io/badge/GitHub-git--arpit-blue?logo=github&style=flat-square)](https://github.com/git-arpit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ArpitSrivastava-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/onarpit/)
+# 👋 Hello, I'm Arpit Srivastava! [![GitHub](https://img.shields.io/badge/GitHub-git--arpit-blue?logo=github&style=flat-square)](https://github.com/git-arpit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-onarpit-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/onarpit/)
 ## 💼 About Me
 I'm a **Java Developer** working at [Tata Consultancy Services (TCS)](https://www.tcs.com), where I have hands-on experience in designing, developing, and implementing applications using Core Java, Spring Boot, and PL/SQL.
 My journey in the tech world is fueled by a deep passion for coding and a commitment to continuous learning.
